@@ -1,4 +1,4 @@
-print("Hello world")
+첫번째 줄을 수정
 print("first commit")
 
 
